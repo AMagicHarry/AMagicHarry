@@ -4,7 +4,7 @@ Hi 👋 My name is Magic Harry
 Senior Full-Stack Developer | Blockchain Developer
 --------------------------------------------------
 
-I am a senior full stack & blockchain developer with 8+ years of rich, real world experience. I enjoy and understand the importance of both technical and creative aspects during the developmental process and strive to deliver perfect results in the quickest time possible, no matter the circumstances or job requirement. My strongest professional skills are included in the following list: - Front-end: HTML, CSS, JavaScript, Bootstrap, Sass, React/Redux, Next. Typescript, Vue.js, GraphQL, Apollo. - Back-end: Node.js, Django, Laravel - Database: MongoDB, MySQL, PostgreSQL - ERC-721, ERC-20, ERC-1155 smart using solidity. - Firmware development for PIC, ARM and FPGA
+I am a senior full stack & blockchain developer with 8+ years of rich, real world experience. I enjoy and understand the importance of both technical and creative aspects during the developmental process and strive to deliver perfect results in the quickest time possible, no matter the circumstances or job requirement.
 
 * ✉️  You can contact me at [tomasedwen75@gmail.com](mailto:tomasedwen75@gmail.com)
 * 🧠  I'm learning IoT Technology
