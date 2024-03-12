@@ -1,7 +1,7 @@
-Hi 👋 My name is Magic Harry
+Hi 👋 My name is Magic_Harry
 ============================
 
-Senior Full-Stack Developer | Blockchain Developer
+Senior Full-Stack | Blockchain Developer
 --------------------------------------------------
 
 I am a senior full stack & blockchain developer with 8+ years of rich, real world experience. I enjoy and understand the importance of both technical and creative aspects during the developmental process and strive to deliver perfect results in the quickest time possible, no matter the circumstances or job requirement.
