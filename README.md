@@ -6,7 +6,6 @@ Senior Full-Stack | Blockchain Developer
 
 I am a senior full stack & blockchain developer with 10+ years of rich, real world experience. I enjoy and understand the importance of both technical and creative aspects during the developmental process and strive to deliver perfect results in the quickest time possible, no matter the circumstances or job requirement.
 
-* ✉️  You can contact me at [tomasedwen75@gmail.com](mailto:tomasedwen75@gmail.com)
 * 🧠  I'm learning IoT Technology
 * 🤝  I'm open to collaborating on Blockchain | Full-Stack projects
 * ⚡  I enjoy talking about technology with my friends
