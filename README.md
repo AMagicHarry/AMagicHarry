@@ -1,4 +1,5 @@
-Hi 👋 My name is Magic_Harry
+Hello, Dear 👋 <br />
+My name is Magic Harry
 ============================
 
 Senior Full-Stack Developer
