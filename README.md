@@ -8,7 +8,7 @@ Senior Full-Stack Developer
 I am a senior full stack developer with 10+ years of rich, real world experience. I enjoy and understand the importance of both technical and creative aspects during the developmental process and strive to deliver perfect results in the quickest time possible, no matter the circumstances or job requirement.
 
 * 🧠  I'm learning IoT Technology
-* 🤝  I'm open to collaborating on Blockchain | Full-Stack projects
+* 🤝  I'm open to collaborating on Full-Stack projects
 * ⚡  I enjoy talking about technology with my friends
 
 ### Skills
